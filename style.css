@@ -5,3 +5,10 @@
   text-align:left;
   font-family:inherit;
 }
+
+/* begin : Responsive Navigation */
+body
+{
+  margin:0;
+}
+/* end : Responsive Navigation */
