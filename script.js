@@ -1,5 +1,5 @@
-console.log("welcome to github");
+console.log("welcome to LiteraryInfo");
 $(document).ready(function(){
-  console.log("welcome sathish");
+  console.log("welcome Guest");
 
 });
